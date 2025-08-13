@@ -443,7 +443,7 @@ a {
 
 .btn-grp {
   display: flex;
-  gap: 0.9rem;
+  gap: 1rem;
   align-items: center;
   /* background-color: #e84949; */
 }
